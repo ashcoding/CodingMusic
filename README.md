@@ -7,6 +7,10 @@ List of songs to listen to while coding or learning to code.
 - [Maroon 5 - Sugar](https://www.youtube.com/watch?v=09R8_2nJtjg)
 - [Magic! - No Way No](https://www.youtube.com/watch?v=HdobynnfKQE)
 - [OMI - Cheerleader (Felix Jaehn Remix)](https://www.youtube.com/watch?v=jGflUbPQfW8)
+- [Big Bang - Stupid Liar](https://www.youtube.com/watch?v=Xu2fTunbeu0)
+- [Mark Ronson - Uptown Funk ft. Bruno Mars](https://youtu.be/OPf0YbXqDm0)
+- [Meghan Trainor - All About That Bass](https://youtu.be/7PCkvCPvDXk)
+- [GD X TAEYANG - GOOD BOY M/V](https://youtu.be/1ZRb1we80kM)
 - next();
 
 Todo: Create a playlist.
