@@ -1,5 +1,5 @@
 # Coding Music
-List of playlists to listen to while coding or learning to code.
+List of songs to listen to while coding or learning to code.
 
 - [Maroon 5 - She Will Be Loved](https://www.youtube.com/watch?v=EC4Vlo_Jl0Q)
 - [Maroon 5 - This Love](https://www.youtube.com/watch?v=jC9LZmL4R8Q)
@@ -8,3 +8,5 @@ List of playlists to listen to while coding or learning to code.
 - [Magic! - No Way No](https://www.youtube.com/watch?v=HdobynnfKQE)
 - [OMI - Cheerleader (Felix Jaehn Remix)](https://www.youtube.com/watch?v=jGflUbPQfW8)
 - next();
+
+Todo: Create a playlist.
