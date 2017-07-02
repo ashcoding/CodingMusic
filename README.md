@@ -11,6 +11,7 @@ List of songs to listen to while coding or learning to code.
 - [Mark Ronson - Uptown Funk ft. Bruno Mars](https://youtu.be/OPf0YbXqDm0)
 - [Meghan Trainor - All About That Bass](https://youtu.be/7PCkvCPvDXk)
 - [GD X TAEYANG - GOOD BOY M/V](https://youtu.be/1ZRb1we80kM)
+- [Ed Sheeran - Shape of You (Glastonbury 2017)](https://youtu.be/alGsD_ZmxTE)
 - next();
 
 Todo: Create a playlist.
