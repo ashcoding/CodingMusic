@@ -13,6 +13,7 @@ List of songs to listen to while coding or learning to code.
 - [GD X TAEYANG - GOOD BOY M/V](https://youtu.be/1ZRb1we80kM)
 - [Ed Sheeran - Shape of You (Glastonbury 2017)](https://youtu.be/alGsD_ZmxTE)
 - [Peace Sign - Kenshi Yonezu; 米津玄師 MV「ピースサイン」](https://youtu.be/9aJVr5tTTWk)
+- [DJ Snake - Let Me Love You ft. Justin Bieber](https://youtu.be/euCqAq6BRa4)
 - next();
 
 Todo: Create a playlist.
