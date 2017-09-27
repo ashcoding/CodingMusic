@@ -15,6 +15,7 @@ List of songs to listen to while coding or learning to code.
 - [Peace Sign - Kenshi Yonezu; 米津玄師 MV「ピースサイン」](https://youtu.be/9aJVr5tTTWk)
 - [DJ Snake - Let Me Love You ft. Justin Bieber](https://youtu.be/euCqAq6BRa4)
 - [Portugal. The Man – Feel It Still](https://youtu.be/jTNpUhGGOuI)
+- [【女性が歌う】君に届け/flumpool](https://www.youtube.com/watch?v=Iw6kfUHESw8)
 - next();
 
 Todo: Create a playlist.
