@@ -16,6 +16,7 @@ List of songs to listen to while coding or learning to code.
 - [DJ Snake - Let Me Love You ft. Justin Bieber](https://youtu.be/euCqAq6BRa4)
 - [Portugal. The Man – Feel It Still](https://youtu.be/jTNpUhGGOuI)
 - [【女性が歌う】君に届け/flumpool](https://www.youtube.com/watch?v=Iw6kfUHESw8)
+- [Panic! At The Disco: The Only Difference Between Martyrdom and Suicide Is Press Coverage](https://youtu.be/flKd80xRazk)
 - next();
 
 Todo: Create a playlist.
