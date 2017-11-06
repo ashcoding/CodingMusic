@@ -17,6 +17,7 @@ List of songs to listen to while coding or learning to code.
 - [Portugal. The Man – Feel It Still](https://youtu.be/jTNpUhGGOuI)
 - [【女性が歌う】君に届け/flumpool](https://www.youtube.com/watch?v=Iw6kfUHESw8)
 - [Panic! At The Disco: The Only Difference Between Martyrdom and Suicide Is Press Coverage](https://youtu.be/flKd80xRazk)
+- [Stargazing - Kygo](https://www.youtube.com/watch?v=7Le36EZ8aWs)
 - next();
 
 Todo: Create a playlist.
