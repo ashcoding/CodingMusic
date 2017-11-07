@@ -21,3 +21,7 @@ List of songs to listen to while coding or learning to code.
 - next();
 
 Todo: Create a playlist.
+
+Songs to Consider
+
+ - [Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals)](https://www.youtube.com/watch?v=6RLLOEzdxsM)
